@@ -45,9 +45,3 @@ with open('symbols.txt','w') as file:
 
 
             
-    
-
-
-
-
-
